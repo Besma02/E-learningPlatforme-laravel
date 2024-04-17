@@ -1,0 +1,82 @@
+
+
+
+.title{
+    text-align: left;
+    position:absolute;
+    top: 30%;
+    left: 10%;
+    font-family: noto-sans;
+    font-size: 52px;
+    font-weight: 700;
+    color:rgb(15, 10, 11);
+  
+    
+   
+}
+.subtitle{
+  
+    font-family: noto-sans;
+    font-size: 36px;
+    font-weight: 700;
+    color:rgb(5, 101, 62);
+  
+    text-align: center;
+   
+}
+.subtitle2{
+  
+    text-align: left;
+    position:absolute;
+    top: 42%;
+    left: 11%;
+    font-family: noto-sans;
+    font-size: 36px;
+    font-weight: 700;
+    color:rgb(5, 101, 62);
+    
+   
+}
+.bg{
+    background-image: url('/img/copy-space-boy-with-books-showing-ok-sign2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  
+   height: 500px;
+}
+.back{
+    font-weight: bold;
+    color:rgb(5, 101, 62);
+}
+
+.main{
+    background-color: #f8f9fa;
+    padding: 20px;
+    
+   
+   align-items: center;
+   
+}
+.ajout{
+    float: right;
+}
+.card{
+    background-color:#fff;
+    width: 350px;
+    border: none;
+    margin-bottom: 20px;
+
+    
+
+}
+footer{
+    background-color: #e8e9ea;
+    text-align: center;
+    font-size: 12px;
+    padding:15px 0;
+   
+}
+footer p{
+    padding-top: 20px;
+}
